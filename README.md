@@ -1,6 +1,6 @@
 "# betterMotherFuckingWebsite" 
 
-Voici le lien vers notre super site.
+Voici le lien vers notre super site : https://0smose.github.io/betterFuckingWebsite/
 
 Le site contient le super texte écrit dans un fichier html, mis en page par du css, 
 un popup bien relou qui demande à l'utilisateur s'il veut se rendre sur un site
